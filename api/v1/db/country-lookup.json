@@ -248,7 +248,8 @@
         "EH",
         "YE",
         "ZM",
-        "ZW"
+        "ZW",
+        "YT"
     ],
     "countryNames": {
         "AF": "Afghanistan",
@@ -499,7 +500,8 @@
         "EH": "Western Sahara",
         "YE": "Yemen",
         "ZM": "Zambia",
-        "ZW": "Zimbabwe"
+        "ZW": "Zimbabwe",
+        "YT": "Fictional YouTube Country"
     },
     "countryRegions": {
         "AF": "Asia",
@@ -750,7 +752,8 @@
         "EH": "Africa",
         "YE": "Asia",
         "ZM": "Africa",
-        "ZW": "Africa"
+        "ZW": "Africa",
+        "YT": "Made-up"
     },
     "countrySubRegions": {
         "AF": "Southern Asia",
@@ -1001,6 +1004,7 @@
         "EH": "Northern Africa",
         "YE": "Western Asia",
         "ZM": "Sub-Saharan Africa",
-        "ZW": "Sub-Saharan Africa"
+        "ZW": "Sub-Saharan Africa",
+        "YT": "sorry we were joking"
     }
 }
