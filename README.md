@@ -1,6 +1,6 @@
 ![Skunk IDE Logo](icon.png "Skunk IDE Logo")
 
-![Stargazers](https://img.shields.io/github/Tainspain/SkunkIDE-backend-api?style=flat-square "Stars")
+![Stargazers](https://img.shields.io/github/Tainspain/SkunkIDE-backend-api/?style=flat-square "Stars")
 
 # SkunkIDE-BackendApi
 
