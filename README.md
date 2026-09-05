@@ -2,9 +2,9 @@
 
 ![Stargazers](https://img.shields.io/github/stars/PenguinMod/PenguinMod-BackendApi?style=flat-square "Stars")
 
-# PenguinMod-BackendApi
+# SkunkIDE-BackendApi
 
-This is the replacement for PenguinMod-IntermediateBackendApi.
+This is the Backend API for Skunk ide, which is a mod of Snail IDE.
 
 This is intended to be a major rewrite of the entire API to be organized much better, and use MongoDB & other systems for better scalability.
 
