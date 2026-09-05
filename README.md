@@ -1,4 +1,4 @@
-![Skunk IDE Logo](icon.png "Skunk IDE Logo")
+![Skunk IDE Logo](icon-hi.png "Skunk IDE Logo")
 
 
 # SkunkIDE-BackendApi
